@@ -1,4 +1,4 @@
 server:
   port: 3355
 config:
-  info: master branch of config dev.
+  info: "master branch of config dev. version = 1 "
